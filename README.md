@@ -101,6 +101,22 @@ RESULT: At Mach 2.8, impact at 449.0km in 467.5s (7.79 min)
 ANSWER: 467.5 seconds — approximately 7 minutes 47 seconds at Mach 2.8 over 449 km.
 ```
 
+**Policy Conflict (Auditor's Trace mode):**
+```
+Q: What is the minimum IC% for Buy Indian-IDDM?
+
+⚠  CONFLICT ALERT — answer drawn from 3 different sources:
+   • docs/dac_decisions.txt
+   • docs/dap2020_icmai.pdf
+   • docs/dap2026_chapter1.txt
+
+VERDICT: DAP 2020 requires 50% IC upfront.
+         DAP 2026 Draft introduces a graded approach: 30% at trials → 60% at final.
+         These are unresolved — resolution is the analyst's call, not the system's.
+```
+
+The system does not pick a winner. Surfacing the conflict *is* the answer.
+
 ---
 
 ## Evaluation

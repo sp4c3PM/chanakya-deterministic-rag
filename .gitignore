@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Large files — parked for Week 5 selective extraction
+docs/large/
+
+# Runtime artifacts
+corpus_manifest.json
+overrides.json
+eval_results_*.json
+
+# Internal / org-specific configs
+arijeet-roy.yaml
+
+# OS
+.DS_Store

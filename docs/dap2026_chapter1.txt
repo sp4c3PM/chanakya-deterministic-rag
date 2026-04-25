@@ -1,0 +1,936 @@
+DAP 2026 DRAFT — CHAPTER I (ACQUISITION CATEGORIES AND INDIGENOUS CONTENT)
+Source: Ministry of Defence Draft DAP 2026 (February 2026)
+STATUS: DRAFT — NOT YET IN FORCE. DAP 2020 remains operative.
+
+ 
+ 
+ 
+ 
+OBJECTIVES AND GUIDING PRINCIPLES 
+1. Objective.     The Defence Acquisition Procedure serves as the foundational framework for 
+capital acquisitions undertaken by the Ministry of Defence and the Ser vice Headquarters. Its primary 
+objective is to ensure the timely acquisition of military equipment, systems and platforms as required 
+by the Armed Forces in terms of performance, capabilities and quality standards, through optimum 
+utilisation of allocated  budgetary resources. While enabling the same, the Defence Acquisition 
+Procedure will provide for the highest degree of probity, public accountability, transparency, fair 
+competition and level-playing field. 
+2. Guiding Principles.     The Defence Acquisit ion Procedure 2026 is structured to ensure that 
+acquisition decisions are strategically aligned with national security priorities, procedurally sound, 
+economically prudent and geared toward long -term industrial transformation. The following guiding 
+principles underpin its design, logic and implementation framework:- 
+2.1. National Security Imperatives .     The Defence Acquisition Procedure reinforces 
+India’s ability to respond to current and evolving threats across all the operational domains. It 
+prioritises capability enhancement, operational readiness and strategic autonomy by promoting 
+reduced reliance on foreign systems and enabling integration through interoperable and 
+standardised platforms. 
+2.2. Atmanirbhar Bharat and Indigenisation.     In support of national self-reliance, DAP 
+2026 embeds indigenous capability development as a core objective. It fosters indigenous 
+design, manufacturing and technology development, while encouraging Medium, Small and 
+Micro Enterprises and Start -ups participation to buil d a resilient and competitive defence 
+industrial base. 
+2.3. Cost Effectiveness and Lifecycle Value .     The procedure emphasises long -term 
+sustainability and lifecycle cost considerations in acquisition planning. It promotes modularity, 
+upgradeability and infrastructure compatibility to ensure enduring operational viability and 
+fiscal responsibility. 
+2.4. Transparency and Fair Competition.     Defence Acquisition Procedure 2026 ensures 
+a transparent and equitable procurement environment through standardised  procedures and 
+competitive vendor selection, reinforcing public accountability and institutional integrity. 
+2.5. Ease of Doing Business .     Defence Acquisition Procedure 2026 enables simplified 
+structures and procedures to promote ease of doing business. 
+2.6. Accountability and Oversight .     Robust mechanisms are embedded to monitor 
+compliance with contractual obligations, indigenous design and indigenous content, ensuring 
+that acquisitions deliver intended strategic outcomes. 
+2.7. Flexibility and Respon siveness.     To meet diverse operational needs, Defence 
+Acquisition Procedure 2026 incorporates flexible models to enable adaptive decision -making 
+within defined thresholds to support timely and context-sensitive acquisitions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER I 
+ACQUISITION CATEGORIES, 
+ACQUISITION PLANNING, 
+INDIGENOUS DESIGN AND 
+INDIGENOUS CONTENT 
+  
+2 
+CHAPTER I 
+ACQUISITION CATEGORIES, ACQUISITION PLANNING, INDIGENOUS DESIGN AND 
+INDIGENOUS CONTENT 
+Introduction 
+1. The DAP shall govern all Capital Acquisitions undertaken by the Ministry of Defence (MoD) 
+and Service Headquarters (SHQ), whether sourced indigenously or through import, except for works, 
+land and medical equipment. 
+2. All acquisition of goods and services, including Transfer of Technology (ToT), carried out 
+under Capital Expenditure as per Rules 84, 98, 99, 101 and 233 of General Financial Rules -2017 and 
+booked under the Capital Budget Head will be classified as ‘Capital Acquisitions’ and shall be 
+processed in accordance with the procedures laid down in DAP 2026.  
+Scope 
+3. The DAP contains all the procurement policies and procedures and shall be read in conjunction 
+with the Handbook of Guidelines & Annexures, which contains all relevant guidelines, formats and 
+appendices. 
+4. In the event of enactment of new legislation  or change or amendment or enforcement of any 
+Act or Law or Policy, rules or regulations or guidelines of the MoD or Ministry of Finance (MoF) or 
+Government of India (GoI) or bodies such as Central Vigilance Commission, which becomes effective 
+after the date of last amendment to DAP 2026, the same will automatically be deemed as replacement 
+to the one referred to in DAP 2026. All such relevant polices would be updated on the MoD website 
+along with the latest edition of DAP. Also, all previous letters / instructions issued before the issue of 
+DAP are deemed to have been superseded after the issue of DAP 2026. 
+Note – SHQ,  for the purpose of DAP, would include HQ Integrated Defence Staff (IDS), Integrated 
+HQ of the MoD (Army), Naval HQs, Air HQs  and the Indian Coast Guard (ICG). Defence Research 
+and Development Organisation (DRDO) and Defence Public Sector Undertakings (DPSUs) will 
+continue to follow their own procurement procedure. 
+Acquisition Planning Process  
+5. Capability Development Planning Process .       The capability development plan for the 
+Armed Forces would evolve from the National Security Strategy / Guidelines and the ‘Raksha Mantri’s 
+Operational Directive’. The following planning process would be adopted:- 
+5.1. HQ IDS shall prepare a 10-year roll on Integrated Capability Development Plan (ICDP) 
+in consultation with the SHQ (less ICG), every five years, consisting of two parts. Part I of the 
+ICDP shall contain Defence Capital Acquisition Plan (DCAP) for the first five years and Part 
+II of the ICDP shall contain the DCAP for next five years. The ICG’s Capability Development 
+Plan will be prepared on similar lines and processed separately by HQ ICG along with the 
+ICDP for approval of DAC. The ICDP and ICG’s Capability Development Plan will be 
+approved by the DAC. The ICDP will clearly define requirements, induction timelines and 
+facilitate the derivation of system specifications, ensuring that Acceptance of Necessity (AoN) 
+for major systems accounts for lead times required for development, testing, eva luation and 
+production. 
+5.2. A Technology Perspective Capability Roadmap (TPCR) will be derived by translating 
+the ICDP into precise problem definition statements, along with the ICDP and ICG’s Capability 
+3 
+Development Plan, which may be made public to guide  industry efforts towards allocation of 
+resources and seamless transition from technology development to testing, trials and 
+production.  
+5.3. Based on the ICDP, each SHQ shall prepare a two -year roll-on acquisition plan, to be 
+called the Annual Acquisitio n Plan (AAP), before the commencement of each financial year, 
+which shall form the basis for initiation of every acquisition proposal for AoN. The draft AAP 
+will be submitted by the SHQ to HQ IDS by the 31 st of January each year, after obtaining 
+comments of the concerned Joint Secretary and Acquisition Managers (JS & AMs), Additional 
+Director Generals Acquisition Technical (ADGs Acquisition Technical) and MoD (Finance). 
+5.4. A consolidated AAP will be prepared by HQ IDS along with prioritisation of schemes  
+based on the overall financial limits linked to the anticipated budget {limits being fixed in 
+consultation with MoD (Finance)}. HQ IDS will obtain approval of the AAP from the DPB in 
+the first DPB of the new Financial Year. Approval of the DPB of AAP in respect of ICG will 
+be processed by HQ ICG after due prioritisation. 
+6. AAP. 
+6.1. The AAP will comprise of six parts as given below :- 
+6.1.1. Part A will contain a list of all carry -over acquisition proposals from the 
+previous year and those for which AoN has been accorded during the year. 
+6.1.2. Part B will include the list of acquisition proposals under the Buy scheme [to 
+include Buy (Indian -Indigenously Designed, Developed and Manufactured) {‘Buy 
+(Indian-IDDM)}, Buy (Indian) and Manufacture in India, Buy  (Global) and 
+Manufacture in India & Buy (Global)], likely to be initiated for AoN in the forthcoming 
+year. 
+6.1.3. Part C will include the list of cases under the Development scheme {to include 
+Design and Development (D&D), Make -I, Make-II, Make-III, Innovation in Defence 
+Excellence (iDEX) and Technology Development Fund (TDF)}, likely to be initiated 
+for AoN in the forthcoming year. 
+6.1.4. Part D will list of proposals for procurement under Other Capital Procurement 
+Procedure (OCPP), likely to be initiated for AoN in the forthcoming year. 
+6.1.5. Part E will include proposals under Fast Track Procedure (FTP), likely to be 
+initiated for AoN in the forthcoming year.  
+6.1.6. Part F will include proposals under Strategic Partnership (SP), likely to be 
+initiated for AoN in the forthcoming year.  
+6.2. The maturity levels of indigenous technology based on Technology Readiness Levels 
+(TRLs) in accordance with ISO 16290:2013 of the product offered, assessed as per National 
+Technology Readiness Assessment Framework (NT RAF) or certified by the National 
+Establishment for Technology Readiness Assessment (NETRA) / any other accredited / 
+recognised National or Global certification agency, may be reflected in the AAP against each 
+acquisition proposal. Further details of TRLs are provided in Para 9 of Appendix A of Chapter 
+I of the Handbook of Guidelines & Annexures. 
+6.3. Acquisition proposals not included in the AAP may also be initiated by SHQ on account 
+of unforeseen circumstances and will be deemed to be included in the rel evant section of the 
+AAP after the grant of AoN. However, AoN for such cases shall be processed within the overall 
+4 
+budget estimates as prescribed for AAP and shall be approved by the DAC. The AAP will be 
+accordingly revised and brought up for approval of the DPB as per the next scheduled revision. 
+6.4. The DPB may also carry out amendments to the AAP, if considered necessary, on 
+account of national security requirements, operational urgencies and budgetary provisions or 
+any other exigency based on recommend ations made by SHQ / HQ IDS / Department of 
+Military Affairs / MoD (Finance) / Department of Defence. 
+6.5. SHQ shall preferably undertake Request for Information (RFI) / Preliminary Study (as 
+applicable) for proposals listed in the ICDP before their inclus ion in the AAP. However, the 
+AAP approved by DPB may contain proposals for which RFI / Preliminary Study are yet to 
+commence. For such proposals, SHQ shall issue RFI / commence Preliminary Study within 
+eight (08) weeks of inclusion in the AAP (ie, issue of minutes of DPB meeting). 
+Request for Information (RFI) / Preliminary Study 
+7. RFI.     RFI is a means to carry out an environment scan and seek vendor inputs for acquisition 
+proposals for deciding on acquisition category, Services Qualitative Requirement (SQR) / Joint 
+Services Qualitative Requirement (JSQR), maintenance philosophy, contractual provisions, for 
+inclusion in AoN, Request for Proposals (RFPs) and contracts. In addition to seeking vendor inputs, 
+SHQ shall also leverage known defence equipment databases, specialist tools or consultancy services 
+to examine adversary capabilities and global market offerings as part of the RFI process. The objectives 
+of RFI are as follows: - 
+7.1. To explore the suitability of the available equipment / technology to meet the 
+Operational Requirements (ORs) of the Services. 
+7.2. To formulate / refine / rationalise SQR based on a rational combination of different 
+product specifications.  
+7.3. To determine the acquisition schemes of Buy, Development, Additional Procedures or 
+their combination and aid in determining the applicable acquisition category. 
+7.4. To estimate indicative budgetary and cost implications, besides assisting CNCs to arrive 
+at a realistic benchmarking price. 
+7.5. To gather inputs for drafting trial methodologies and identifying applicable Indian and 
+international standards.  
+7.6. To identify sub -systems, Line Replaceable Units (LRUs), software and fast -moving 
+spares for mandatory indigenous production / development for inclusion in the AoN, RFP and 
+contracts. 
+7.6. To gather inputs for maintenance philosophy as well as other contractual provisions for 
+inclusion in the AoN, RFP and contracts. 
+7.7. To enable vendors time to obtain requisite Government clearances such as Industrial 
+License, Registration, Export License etc by providing lead time. 
+8. The RFI shall be sent to known vendor bases, Industrial bodies and Defence Attachés. SHQs 
+may refer SRIJAN-DEEP portal of DDP for identification of vendors with domain expertise. Extensive 
+interactions will be held  by SHQ with Indian as well as Global vendors / industrial bodies after the 
+issue of the RFI. Unclassified RFIs shall be hosted on the MoD, SRIJAN -DEEP Portal and SHQ 
+websites. Vendors responding to the RFI are required to provide factual and correct infor mation in 
+their responses within eight weeks, extendable by further eight weeks by SHQ. In case, at any 
+5 
+subsequent stage of the acquisition process, it comes to notice that any vendor(s) has furnished false 
+information in response to RFI, the EMD / PWBG ma y be forfeited and MoD may impose any other 
+penalty as deemed appropriate.  
+9. If the final SoC for AoN is not submitted in SPB / DPB secretariat for accord of AoN post 
+expiry of 66 weeks from the closing date of RFI response, the process of RFI will be re-initiated.  
+10. SHQ shall provide a quarterly report for RFI issued and their status to the Project Management 
+Unit at the Acquisition Wing in MoD. 
+11. The norms and procedures for RFI are given in Appendix A of the Handbook of Guidelines & 
+Annexures. 
+Preliminary Study. 
+12. SHQ may carry out the preliminary study with the involvement of other stakeholders instead 
+of issuing RFI, where applicable. Industry associations including MSME associations would also be 
+consulted to assist in preparation of Preliminary Study Report. SHQ may hire consultants / experts for 
+the Preliminary Study for which funding, if required, shall be borne by SHQ under relevant Revenue 
+Budget. The Preliminary Study Report shall be included in the statement of case for AoN. The 
+Preliminary Study shall look into the following aspects:- 
+12.1 Assessment of enabling technologies to realise the requisite equipment  / system / 
+platform / components or their upgrades. 
+12.2. Assessment of capability of Indian industry to undertake design and development of the 
+requisite equipment / system / platform or their upgrades and to identify probable vendors. 
+12.3. Estimated time period for development. 
+12.4. Estimated cost of prototype development and for subsequent procurement. 
+12.5. Recommend the optimal acquisition category. 
+12.6. Any other aspect considered important. 
+SQR 
+13. SHQ will formulate SQRs  for all capital acquisitions. However, proposals involving already 
+inducted equipment will not necessitate SQR formulation and existing SQR will suffice. S QRs need 
+to be realistic, achievable, verifiable and unambiguous. SQRs must not be tailored for a particular 
+product. Required relevant standards will be mentioned in the SQRs. The SQRs will follow a standard 
+format comprising Introduction, Essential Para meters-A, Essential Parameters -B (if applicable) and 
+Enhanced Performance Parameter (EPP) (if applicable), as given in Paras 2 to 7 of Chapter II of DAP. 
+The SQRs shall be approved by SEPC / ISEPC which may include Subject Matter Experts nominated 
+by MoD. 
+14. Preliminary SQR (PSQR).     SHQ shall formulate PSQRs in all cases under Make -I, Make-
+II, Make-III, D&D, iDEX and TDF, where the requirement of development and evaluation of prototype 
+exists before issuing RFP for procurement. The PSQRs shall comprise ‘Essential Parameters’ and 
+‘Desirable Parameters’ and shall be approved by competent authority at SHQ. PSQRs shall be usually 
+be converted to SQRs by SEPC / ISEPC post successful development and before issue of the 
+commercial RFP in all cases, except where  specific provisions enunciated in subsequent chapters 
+provide for issue of RFP on PSQR.  
+6 
+15. The details for the formulation of SQRs are given in Chapter II of DAP 2026. 
+Acquisition Categories 
+16. Capital acquisitions are broadly classified in schemes of ‘Buy’, ‘Development’ and ‘Additional 
+Procedures’. The acquisition categories under these broad acquisition schemes are as below. 
+17. Buy Scheme.     Buy refers to the procurement of equipment, system, platform or their upgrades 
+or their sub-systems, sub-assemblies, assemblies, components, ammunition and software, as the case 
+may be, that are available for purchase from indigenous or foreign sources. The following acquisition 
+categories form part of the Buy scheme:- 
+17.1. Buy (Indian-Indigenously Designed, Developed and Manufactured) [‘Buy (Indian-
+IDDM)]’.    This category refers to the acquisition of defence equipment, system, platform or 
+their upgrades or their sub-systems, sub-assemblies, assemblies, components, ammunition and 
+software, as the case may be,  that have been indigenously designed, developed and 
+manufactured, by Indian vendors as defined in Para 23 below, including additional conditions 
+at Sub-Paras 23.1 and 23.2 of this chapter and meet the specified Indigenous Design (ID) and 
+Indigenous Content (IC) requirements.  
+17.2. Buy (Indian) and Manufacture in India .    The ‘Buy (Indian) and Manufacture in 
+India’ category refers to the acquisition of defence equipment, system, platform or their 
+upgrades or their sub -systems, sub -assemblies, assemblies, components, ammunition and 
+software, as the case may be, from Indian vendors as defined at Para 23 below, excluding 
+additional conditions at Sub -Paras 23.1 and 23.2, meeting the specified IC requirement. It 
+comprises two essential components: - 
+17.2.1. Buy Component.     This involves the direct purchase of equipment from Indian 
+Vendors. The Indian vendor may import the required equipment, system, platform or 
+their upgrades or their sub -systems, sub -assemblies, assemblies, components, 
+ammunition and software, as the case may be, from foreign OEMs.  
+17.2.2. Manufacture Component .     This entails indigenous manufacture of 
+equipment, system, platform or their upgrades or their sub -systems, sub -assemblies, 
+assemblies, components, ammunition and software, as the case may be and may follow 
+a graduated approach to production, comprising semi -knocked down kits, completely 
+knocked down kits and indigenous manufacturing, along with testing, integration, 
+maintenance, repair and overhaul (MRO) facility and upgrades, thr ough transfer of 
+technology (ToT) to the Indian vendor.  
+17.2.3. Acquisition under this category may be carried out with Buy Quantity as Zero 
+with complete quantities being manufactured indigenously. Equipment / systems / 
+platforms figuring on the Positive  Indigenisation Lists, notified by MoD, may be 
+procured under this category, only if Buy quantities are Zero. 
+17.3. Buy (Global) and Manufacture in India .     The “Buy (Global) and Manufacture in 
+India” category refers to an outright purchase of equipment, system, platform or their upgrades 
+or their sub -systems, sub-assemblies, assemblies, components, ammunition and software, as 
+the case may be, from foreign vendors, in quantities as considered necessary, followed by 
+indigenous manufacture of the entire / p art of the equipment and spares / assemblies / sub -
+assemblies / Maintenance, Repair and Overhaul (MRO) facility for the equipment, through its 
+subsidiary in India / through a Joint Venture / through an Indian Production Agency (PA) (with 
+ToT of critical technologies as per specified range, depth and scope to the Indian PA), meeting 
+stipulated IC. Indian vendors are eligible to participate in the Buy (Global) and Manufacture in 
+7 
+India category. Acquisition under this category can also be carried out without a ny initial 
+procurement of equipment in the FF state. All payments for the ‘Manufactured’ portion will be 
+paid to the vendor in Indian Rupees as per contract provisions. Equipment / systems / platforms 
+figuring on the Positive Indigenisation Lists, notified  by MoD, may be procured under this 
+category, only if Buy quantities are Zero. 
+17.4 Buy (Global) .      The ‘Buy (Global)’ category refers to the outright purchase of 
+equipment, system, platform or their upgrades or their sub -systems, sub -assemblies, 
+assemblies, components, ammunition and software, as the case may be, from foreign vendors, 
+subject to meeting the stipulated IC requirements. In case of procurement through foreign 
+vendors, Government-to-Government (G2G) route / Inter-Government Agreement (IGA) may 
+also be adopted for equipment meeting strategic / long -term requirements. Indian vendors are 
+permitted to participate in the Buy (Global) category. No equipment / systems / platforms 
+figuring on the Positive Indigenisation Lists, notified by MoD, shall  be procured under this 
+category. For all cases being progressed under the Buy (Global) category, the SoC for AoN 
+should include a proposal for accord of AoN for indigenous development through the Make or 
+Design & Development (D&D) category. 
+17.5. The procedure and norms for acquisition categories under the Buy scheme shall be as 
+per Chapter II of DAP 2026.  
+18. Development Scheme.     Development refers to acquisition categories that require design and 
+development of equipment / system / platform or their upgrades or their sub-systems / sub-assembly / 
+assemblies / major components, material, ammunition and software, as the case may be, by indigenous 
+design agencies / industry prior to procurement by MoD / SHQ. The Innovation & Indigenisation 
+Organisation es tablished by SHQs will lead efforts in innovation, identify indigenous design and 
+import substitution projects, monitor progress and employ project / programme implementation 
+experts, as well as the latest execution/ monitoring techniques and software / mo dern tools to ensure 
+timely development and implementation. The procurement for all acquisition categories under the 
+Development scheme shall be carried out under Buy (Indian -IDDM). The following acquisition 
+categories form part of the Development scheme :-     
+18.1. Make.     The following acquisition categories form part of Make :- 
+18.1.1. Make-I.     Make-I refers to the acquisition of equipment / system / platform or 
+their upgrades or their sub -systems / sub -assembly / assemblies / major components, 
+material, ammunition and software, as the case may be, to be designed, developed and 
+manufactured by Indian vendors as defined at Para 23 below, including additional 
+conditions at Sub-Paras 23.1 and 23.2 and meeting stipulated ID and IC requirements. 
+Projects with emerging and critical technologies may be undertaken under Make -I, as 
+per list promulgated by Acquisition Wing, MoD, for Projects under Make-I, MoD shall 
+provide financial support for the development of prototypes to selected DAs, as 
+approved by AoN According Authority. The procedure and norms for Make-I shall be 
+as per Chapter III of DAP 2026. 
+18.1.2. Make-II.     Make-II refers to the acquisition equipment / system / platform or 
+their upgrades or their sub -systems / sub -assembly / assemblies / major  components, 
+material, ammunition and software, as the case may be, to be designed, developed and 
+manufactured by Indian vendors as defined at Para 23 below, including additional 
+conditions at Sub-Paras 23.1 and 23.2 and meeting stipulated ID and IC requir ements. 
+Projects under Make -II, shall be industry -funded and no financial support shall be 
+provided by MoD for prototype development to the DAs. The procedure and norms for 
+Make-II shall be as per Chapter III of DAP 2026. 
+8 
+18.1.3. Make-III.     Make-III refers to acquisition of equipment / system / platform or 
+their upgrades or their sub-systems / sub-assemblies / assemblies / major components, 
+material, ammunition, software or establishment of their Maintenance, Repair & 
+Overhaul (MRO) facilities, as the ca se may be, to be manufactured by Indian vendors 
+as defined at Para 23 below, excluding additional conditions at Sub-Paras 23.1 and 23.2 
+and meeting stipulated IC requirements. The procedure and norms for Make -III shall 
+be as per Chapter III of DAP 2026. 
+18.2. Innovation.     The following acquisition categories form part of Innovation:- 
+18.2.1. Innovation in Defence Excellence (iDEX).     Innovation through iDEX refers 
+to development and procurement of equipment / system / platform or their upgrades or 
+their sub -systems / sub -assembly / assemblies / major components, material, 
+ammunition and software, as the case may be, requiring low capital investments and 
+high innovation, that are designed, developed and manufactured by Medium, Small and 
+Micro Enterprises (MSMEs)  / Start-ups etc. meeting requirement of Indian vendor as 
+defined in Para 23 below, including additional conditions at Sub -Paras 23.1 and 23.2, 
+supported through various schemes of iDEX initiative of the Defence Innovation 
+Organisation under MoD. The procedure and norms shall be as per Chapter IV of DAP 
+2026. 
+18.2.2. Technology Development Fund  (TDF) Scheme.     Innovation through the 
+TDF scheme refers to the development of technology and the acquisition of equipment 
+/ system / platform or their upgrades or their sub-systems / sub-assembly / assemblies / 
+major components, material, ammunition and software, as the case may be, that are 
+designed, developed and manufactured by Indian vendor especially MSMEs / Start-ups, 
+as defined in Para 23 below, including additional conditions at Sub-Paras 23.1 and 23.2, 
+supported through TDF of DRDO. The procedure and norms shall be as per Chapter IV 
+of DAP 2026. 
+18.2.3. Development by Services through Internal Organisations .     This refers to 
+the acquisition of equipment / system / platform or their upgrades or their sub -systems 
+/ sub-assembly / assemblies / major components, material, ammunition and software, 
+as the case may be, that are designed, developed and manufactured by the Services 
+through their internal organisations, such as Base Workshops / Dockyards / Base Repair 
+Depots / any service unit or personnel, etc., with or without participation of Private 
+industry. The procedure and norms shall be as per Chapter IV of DAP 2026. 
+18.3. Design & Development (D&D).     D&D refers to the acquisition of equipment / system 
+/ platform or their upgrades or their sub -systems / sub -assembly / assemblies / major 
+components, material, ammunition and software, as the case may be, that are progressed by 
+DRDO / DPSUs / Central Research Agencies, to be designed, developed and manufactured by 
+an Indian design agency or vendor as defined in Para 23, including additional conditions at 
+Sub-Paras 23.1 and 23.2. The procedure and norms shall be as per Chapter V of DAP 2026. 
+18.4. The Make, Innovation and D&D categories of acquisition could be pursued in isolation, 
+in sequence or in tandem with any of the categories under ‘Buy’ schemes, with a separate 
+heading under ICDP and AAP. 
+19. Additional Procedures .     The following acquisition categories form the Additional 
+Procedures: - 
+19.1. Long Term Bulk Acquisition (LTBA) .     LTBA refers to the acquisition of capital -
+intensive, Hi-Tech and complex equipment, systems, platforms and ammunition, from Indian 
+9 
+vendors / foreign OEMs over a long term in multiple tranches, with progressive indigenisation 
+and upgrades. The procedure and norms shall be as per Chapter II of DAP 2026. 
+19.2. Fast Track Procedure ( FTP).     FTP (including Emergency Procurement) refers to 
+urgent procurement of operationally critical equipment / system / platform or their upgrades or 
+their sub-systems / sub-assembly / assemblies / major components, ammunition and software, 
+as the case may be, when standard timelines risk compromising operational readiness. It may 
+be applied during war or peace and during crises that demand immediate military response. The 
+procedure and norms shall be as per Chapter VI of DAP 2026. 
+19.3. Low-Cost Capital Acquisition (LCCA) .     LCCA refers to the acquisition of 
+equipment / system / platform o r their upgrades or their sub -systems / sub -assembly / 
+assemblies / major components, ammunition and software, as the case may be, under Delegated 
+powers in limited numbers for exploitation by the armed forces from Indian vendors as defined 
+in Para 23, excluding additional conditions at Sub-Paras 23.1 and 23.2. The maximum limit for 
+projects under LCCA shall be Rs 75 Crore with an annual cap of Rs 2000 Crore combined for 
+all Services. Bulk procurement will be carried out subsequently if the equipment is fou nd 
+suitable post-exploitation. The procedure and norms shall be as per Chapter VII of DAP 2026. 
+19.4. Other Capital Procurement Procedure (OCPP) .     OCPP category refers to 
+Procurement / Acquisition of items of capital nature that enhance the utility of e xisting assets 
+including ROH / overhauls, refits, upgrades, refurbishment, modifications and replacement of 
+unserviceable units/ items of existing platforms/equipment already introduced into service. The 
+procedure and norms shall be as per Chapter VIII of DAP 2026. 
+19.5. Strategic Partnership Model (SPM).     Acquisitions under the Strategic Partnership 
+model refer model being implemented to enable participation of private Indian firms in Make 
+in India in defence. The SP is expected to play the role of a Sy stem Integrator by building an 
+extensive eco-system comprising development partners, specialised vendors and suppliers, in 
+particular, those from the MSME sector.  The norms and procedures of the same are given in 
+Chapter IX of DAP 2026. 
+19.6. Leasing.     Leasing refers to an innovative technique for financing equipment / 
+platforms. Leasing provides a means to possess and operate the asset without owning the asset 
+and is useful to substitute huge initial capital outlays with periodic rental payments. Leasin g 
+would be permitted in two sub-categories, i.e. Lease (Indian), where Lessor is an Indian entity 
+and is the owner of the asset and Lease (Global). The procedure and norms shall be as per 
+Chapter X of DAP 2026. 
+20. Inter Government Agreement  (IGA).    In t he context of DAP 2026, IGA refers to an 
+agreement between the Government of India and the Government of any friendly foreign country for 
+the procurement of defence equipment, platforms or technologies based on strategic, military or 
+diplomatic considerations. It enables acquisition on a single vendor basis outside standard procurement 
+procedures, governed by mutually agreed terms between governments. IGA may also support co -
+development, co-production, leasing or long-term product support. The procedure and norms shall be 
+as per Chapter II of DAP 2026. 
+Acquisition Category Decision Framework 
+21. Categorisation.     The categorisation of acquisition projects is intended to align defence 
+procurements with India’s national security objectives, capability enhanc ement and strategic goals of 
+self-reliance and technological innovation, by prioritising indigenous design, development and 
+manufacturing; promoting technology transfer from foreign entities; supporting Start-ups, MSMEs and 
+10 
+indigenous industries; and ensuring the timely induction of equipment to meet Service requirements. 
+To facilitate this, categorisation shall be done as follows:- 
+21.1. Categorisation Matrix.     SHQ shall prepare a Categorisation Matrix based on defining 
+attributes and RFI responses, ass essing vendor capabilities across key parameters, including 
+operational feasibility, operational requirement, induction timelines, technology feasibility, 
+Technology Readiness Levels, Manufacturing Readiness Levels, industry capability, 
+indigenous content deliverability, MRO infrastructure, compliance with the Positive 
+Indigenisation List and urgency or criticality of the requirement. 
+21.2. Selection and Recommendation of Category by SHQ .     The vendor responses 
+received through the RFI shall be analysed a gainst the operational requirements, induction 
+timelines as per the ICDP and strategic imperatives. SHQ may carry out follow-on interactions 
+with the industry and seek inputs from DRDO, DDP, Quality Assurance (QA) Agencies etc, if 
+required. Based on this a nalysis, the broad acquisition category shall be identified, whether 
+under Buy, Development, Additional Procedures or a combination thereof. Once the broad 
+acquisition schemes are identified, SHQ shall recommend the preferred acquisition category 
+based on the Categorisation Matrix. The recommendation shall be guided by vendor responses, 
+strategic relevance and the potential of the Indian industry. The order of preference shall be as 
+follows:- 
+21.2.1. Buy (Indian -IDDM).     SHQ shall mandatorily recommend Bu y (Indian -
+IDDM) acquisition category if two or more vendors, who meet the requirements of Para 
+23, including additional Sub Paras of 23.1 and 23.2, are capable of meeting the defining 
+attributes of this category as given in Para 22 below, including indigen ous design, 
+indigenous content and Equipment Under Trial (EUT) and delivery timelines. If only 
+one Indian Vendor is eligible for IDDM, SHQ shall recommend Buy (Indian -IDDM) 
+as an ab-initio single vendor case, provided the product offered by the Indian vendor is 
+at technology maturity level of TRL 6 to 9, duly certified by any agency recognised / 
+accredited by the GoI. The onus of establishing the technology maturity levels along 
+with certification, shall rest with the Indian vendor. 
+21.2.2. Buy (Indian) and  Manufacture in India .     SHQ shall recommend Buy 
+(Indian) and Manufacture in India acquisition category if no vendor meets the 
+requirement at Para 21.2.1. and two or more vendors, who meet the requirements of 
+Para 22, excluding additional Sub -Paras 22.1 and 22.2, are capable of meeting the 
+defining attributes of this category as given in Para 22 below, including indigenous 
+content, EUT and delivery timelines. Depending on the strategic nature of the 
+equipment and desired induction timelines, SHQ shall rec ommend the Buy and 
+Manufacture quantities. 
+21.2.3. Buy (Global) and Manufacture in India .     SHQ shall recommend the Buy 
+(Global) and Manufacture in India acquisition category if only foreign OEMs are 
+capable of meeting the defining attributes of this cat egory as given in Para 22 below, 
+including indigenous content, EUT and delivery timelines. Depending on the strategic 
+nature of the equipment, desired induction timelines and willingness of foreign OEMs, 
+SHQ shall recommend the Buy and Manufacture quantities. 
+21.2.4. Buy (Global).     SHQ shall recommend the Buy (Global) acquisition category 
+if only foreign OEMs are capable of meeting the defining attributes of this category as 
+given in Para 22 below, including indigenous content, EUT and delivery timelines. 
+21.3. Approval of Acquisition Category.     The categorisation matrix shall be prepared by 
+SHQ and shall be included in the Statement of Case (SoC) for the grant of AoN. In case of any 
+11 
+ambiguity in the category recommended by the SHQ, the same may be del iberated by a 
+collegiate chaired by the concerned JS & AM with the concerned AAS & DG 
+(Acquisition)uisition Technical, Finance Manager and a Major General or equivalent officer 
+from SHQ as members (for Non-Delegated cases) / Major General or equivalent officer at SHQ 
+with representatives of the concerned AAS & DG (Acquisition)uisition Technical and Finance 
+Manager amongst others as members (for Delegated cases). The minutes of such a collegiate, 
+if held, shall be included in the SoC for AoN. The acquisition  category for each case shall be 
+approved by the AoN According Authority.  
+22. Defining Attributes.     The defining attributes of various acquisition categories are as given 
+below: -  
+22.1. Buy (Indian-IDDM).      The acquisition of defence equipment, systems, platforms or 
+their upgrades under this category shall be undertaken if they meet the following criteria: - 
+22.1.1. Eligibility.     The equipment, system, platform or their upgrades or their sub -
+systems, sub -assemblies, assemblies, components, ammuni tion and software, as the 
+case may be, have been produced by Indian industry through in -house R&D / D&D, 
+‘Make’, iDEX or TDF schemes or developed under Paragraph 72 of DPP 2016 / Chapter 
+IV of DAP 2020 and is either already in service with the armed forces  or available for 
+use in another sector or produced but not yet in service. 
+22.1.2. Technology Maturity.     Offered solutions are at TRL 5 to TRL 9. 
+22.1.3. Delivery Capability.     Indian industry can supply with stipulated indigenous 
+design and indigeno us content requirements, firstly for trials and secondly for 
+operational use, as per indicated schedule and required quantities. 
+22.2. Buy (Indian) and Manufacture in India .     The acquisition of defence equipment, 
+system, platform or their upgrades or th eir sub -systems, sub -assemblies, assemblies, 
+components, ammunition and software, as the case may be, under this category shall be 
+undertaken only if they meet the following criteria:- 
+22.2.1. Production Status.    The equipment/system/platform or upgrade is: 
+Already in service with Indian Armed Forces with established indigenous 
+production or available in another sector with established indigenous production  
+Or 
+Capable of being manufactured, integrated and tested by Indian Industry, as all 
+key technologies are accessible to Indian Industry 
+Or 
+Capable of being manufactured, integrated and tested by Indian Industry, with 
+technology absorption by Indian industry, supported by foreign OEMs willing 
+to provide Transfer of Technology (ToT) and Maintenance ToT (MToT). 
+22.2.2. Technology Maturity.     The offered solutions are at TRL 8 to TRL 9. 
+22.2.3. Delivery Capability.     Indian industry can supply with stipulated indigenous 
+content requirements, firstly for trials and / or for operational use, as per the indi cated 
+schedule and required quantities, including graded approaches (Fully Formed, SKD 
+kits, CKD kits, IM kits). 
+12 
+22.3. Buy (Global) and Manufacture in India .     The acquisition of defence equipment, 
+system, platform or their upgrades or their sub -systems, sub-assemblies, assemblies, 
+components, ammunition and software, as the case may be, under this category shall be 
+undertaken only if they meet the following criteria: - 
+22.3.1. Production Status.    The equipment / system / platform or upgrade is : 
+Available with foreign OEM(s), whether in service in a foreign country or not. 
+And 
+The foreign OEM(s) should be willing to set up a subsidiary / JV / ToT to an 
+Indian Production Agency with complete facilities for manufacturing of the 
+entire / part of the equipm ent and spares / assemblies / sub -assemblies / 
+Maintenance along with Repair and Overhaul (MRO) facility for the entire life 
+cycle support of the equipment.  
+22.3.3. Technology Maturity.     Offered solutions are at TRL 8 to TRL 9. 
+22.3.4. Delivery Capabil ity.     The equipment/system/platform with the stipulated 
+indigenous content, as per the indicated schedule and in requisite numbers, can be 
+effected by the OEM from the manufacturing facility in India. 
+22.4 Buy (Global) .     The acquisition of defence eq uipment, system, platform or their 
+upgrades or their sub -systems, sub -assemblies, assemblies, components, ammunition and 
+software, as the case may be, under this category shall be undertaken only if they meet the 
+following criteria: - 
+22.4.1. If the requirement of equipment / system / platform is not of a strategic or long-
+term nature and cannot be fulfilled by any of the categories listed above, the following 
+may be ensured: 
+22.4.1.1. Buy (Global) on a multi or single-vendor basis. 
+22.4.1.2. Fast Track Procedure in case of urgent operational requirements. 
+22.4.2.  If the requirement is of a strategic nature and / or of a long -term nature and a 
+single foreign vendor or all foreign vendors of the same country can provide equipment 
+/ system / platform, the following may be ensured:- 
+22.4.2.1.  Buy (Global) under Government-to-Government arrangement. 
+22.4.2.2. In case of multiple vendors, the product may be selected before 
+approaching the foreign Government. 
+22.4.2.3. Conclude an Inter -Governmental Agreement if one does not 
+already exist, as required. 
+22.4.2.4. Requirement of ToT/ M -ToT as required / likely to be made 
+available may be factored. 
+22.4.3. If the requirement is of a strategic nature and / or of a long-term nature and more 
+than one foreign vendor from  different countries can provide equipment/system 
+platform; under such circumstances, the following may be ensured:- 
+13 
+22.4.3.1. Buy (Global) on a competitive bidding basis. 
+22.4.3.2. Involve the Government of L1 bidder if required. 
+22.4.3.3. Include ToT / MToT as necessary. 
+22.4.4. The required product is not included in the Positive Indigenisation Lists notified 
+by MoD. 
+22.5. Make-I & Make-II.     The acquisition of equipment, system, platform or their upgrades 
+or their sub -systems, sub -assemblies, assembli es, components, material, ammunition and 
+software, as the case may be, under Make -I / Make -II shall be undertaken if they meet the 
+following criteria: - 
+22.5.1. Status.     The product required can be produced as all key technologies are 
+available and the Indian industry has or can establish the requisite capability to design, 
+develop, manufacture, test and integrate. 
+Or 
+The product required would be designed and developed using technologies 
+which are available to the Indian industry through indigenous or f oreign sources; 
+however, access to technology and other production related dependencies should be 
+under the control of Indian entities only. 
+22.5.2. Technology Maturity .     The indigenous technology maturity level of the 
+product required is at TRL 1 to TRL 5. 
+22.5.3. Induction Timeline.   Adequate time is available for induction of capability. 
+22.5.4. Industry Capability .     Indian industry can develop, test and deliver the 
+required product with the stipulated indigenous content and indigenous design 
+requirement, firstly for trials and secondly for operational use as per the indicated 
+schedule and in requisite numbers. 
+22.5.5. Make-I.     The following additional attributes shall be applicable for Make-I:- 
+22.5.5.1. The required product is a critical requi rement for the Indian 
+Armed Forces. 
+22.5.5.2. The development of the required product entails high risk for the 
+industry, which the industry is not willing to take. 
+22.6. Make-III.     The acquisition of equipment, system, platform or their upgrades or their 
+sub-systems, sub-assemblies, assemblies, components, materials, ammunition and software, as 
+the case may be, under Make-III shall be undertaken if they meet the following criteria: - 
+22.6.1. Status.   The required product can be produced as all key tech nologies are 
+accessible to the Indian industry or the Indian industry can absorb the technology from 
+foreign OEMs and create the necessary production, test and integration facilities for the 
+required product and be poised for the up-gradation needed.  
+22.6.2. Induction Timeline.     Adequate time is available for induction of capability. 
+14 
+22.6.3. Industry Capability.     Indian industry can manufacture, test and deliver the 
+required product with the stipulated indigenous content, for operational use as per t he 
+indicated schedule and in requisite numbers. 
+22.9. Design & Development (D&D) .   The acquisition of defence equipment, systems, 
+platforms or their upgrades under D&D shall be undertaken if they meet the following criteria:- 
+22.9.1. Status.     The milit ary materials, equipment, systems, platforms or upgrades 
+thereof are a critical requirement for the Indian Armed Forces. 
+22.9.2. Industry Capability.     The development of the military materials, equipment, 
+systems, platforms or upgrades thereof entails h igh risk for the industry, which the 
+industry is not willing to take. 
+Or 
+ The key technologies for the development of military materials, equipment, 
+systems, platforms or upgrades thereof are not available to the Indian industry or the 
+Indian Industry cann ot establish the requisite capability to design, develop, 
+manufacture, test and integrate the system. 
+22.9.3. Induction Timeline.     Adequate time is available for induction of capability. 
+22.9.4. Development Capability.     DRDO / DPSUs / Central Research Agencies can 
+develop, test and deliver the military materials, equipment, systems, platforms or 
+upgrades thereof with the stipulated indigenous content and indigenous design 
+requirement, firstly for trials and secondly for operational use as per the indi cated 
+schedule and in requisite numbers. 
+22.9.5. Technology Maturity .     The indigenous technology maturity level of the 
+equipment / system / platform or their upgrades or their sub -systems / sub-assembly / 
+assemblies / major components, military material , as the case may be, are at TRL 1 to 
+TRL 5. 
+Vendor Selection and Pre-Qualification Criteria 
+23. Definition of Indian Vendor.     Unless specifically provided for in a clause / section / chapter 
+or elsewhere of DAP 2026, an Indian Vendor by whatever nomenclature when referred to means - for 
+defence products requiring industrial license, an Indian entity, which could include incorporation / 
+ownership models as per Companies Act, Partnership Firm, Proprietorship and other types of 
+ownership models including Societies as per relevant laws, complying with, besides other regulations 
+in force and the guidelines / licensing requirements stipulated by the Department for Promotion of 
+Industry and Internal Trade as applicable. For defence products not requiring an i ndustrial license, an 
+Indian entity registered under the relevant Indian laws and complying with all regulations in force 
+applicable to that industry will be classified as an Indian Vendor. The following two additional 
+conditions will apply to the definiti on for Buy(Indian -IDDM), Make-I, Make-II, Development cum 
+Production Partner in D&D acquisitions and Strategic Partnership Model categories: 
+23.1. Ownership by Resident Indian Citizen(s) .     Further, a company is considered as 
+‘Owned’ by resident Indian c itizens if more than fifty percent (50%) of the capital in it is 
+directly or beneficially owned by resident Indian citizens and / or Indian companies, which are 
+ultimately owned and controlled by resident Indian citizens. This implies that the maximum 
+permitted Foreign Direct Investment (FDI) shall be forty-nine per cent (49%). No pyramiding 
+of FDI in Indian holding companies or in Indian entities subscribing to shares or securities of 
+15 
+the Applicant Company or the Strategic Partner shall be permitted. Indirect foreign investment 
+shall be accounted for in counting the forty-nine per cent (49%) FDI. 
+23.2. Control by Resident Indian Citizens(s) .     ‘Control’, as defined in Companies Act 
+2013, shall include the right to appoint majority of the directors or to c ontrol the management 
+or policy decisions, including by virtue of their shareholding or management rights or 
+shareholders’ agreements or voting agreements. 
+24. Indian Vendor Selection / Pre-Qualification.      The guidelines for Indian vendor selection 
+/ p re-qualification are given at Paras 11 to 16 of Annexure I of Appendix A to Chapter I of the 
+Handbook on Guidelines and Annexures. 
+25. Registration of Vendors.     Registration of vendors with MoD shall be mandatory. MoD shall 
+register and classify vendors  based on their financial, technical, domain expertise and past 
+performance. Registration of vendors with MoD shall be necessary for issue of RFPs. Acquisition 
+Wing of MoD shall issue instructions for registration separately. 
+Miscellaneous Issues. 
+26. Indigenous Design (ID) Requirements.  
+26.1. Definition of ID.     For the purposes of DAP 2026, ID refers to the ownership of the 
+design of the main equipment, system or platform originally conceived and developed in India 
+by a vendor, design agency or other I ndian entity whose ownership and control is held by a 
+resident Indian citizen in accordance with Para 23, including additional requirements at Sub -
+Paras 23.1 and 23.2. ID qualification requires Indian vendors, design agencies or entities to 
+demonstrate com prehensive ownership and control across distinct but interconnected 
+constituents and must satisfy the following constituents to establish ID credentials:- 
+26.1.1. Design Components.     Demonstration of ownership or availability of complete 
+technical artefacts, including design layouts, documents and drawings, detailed circuit 
+diagrams, Gerber files, source codes for the main integration software / firmware, 
+development environments, essential libraries and test qualification reports of the main 
+equipment / system / platform. For equipment, this extends to proprietary hardware 
+documentation and semiconductor integrated circuits layout designs. For platforms and 
+systems, vendors, design agencies or entities must have the ownership of system -level 
+designs and backbone architectures, demonstrate performance simulation capabilities 
+and possess the ability to specify, evaluate and substitute constituent components while 
+adapting designs for obsolescence management. 
+26.1.2. Operational Rights .     Possession of rig hts that guarantee unrestricted 
+capability to manufacture, realise, sell, provide through -life support, modify, upgrade, 
+develop next -generation versions and export (with GoI approval) without 
+encumbrances or dependence on any foreign OEMs. 
+26.2. Acquired Intellectual Property (IP) .     Cases where Indian companies acquire 
+complete ownership of IP or design rights of the main system / equipment / platform from 
+foreign entities shall be deemed to be indigenously designed and developed, provided all the 
+above requirements are met. Designs merely licensed from foreign third parties do not qualify, 
+except for standard software licenses for operating systems, databases and similar commercial 
+off-the-shelf components. 
+26.3. ToT from Indian OEMs / DAs.     Any vendor manufacturing a system, equipment or 
+platform under a licence agreement with ToT from an Indian OEM, design agency or other 
+16 
+Indian entity that owns the design will qualify as ID, provided the vendor demonstrates that the 
+ToT source is the Indian design owner and meets the requirements in Para 26.1 above. 
+26.4. Category-wise ID Requirements.     The following acquisition categories of DAP 2026 
+shall mandatorily require vendors to comply with ID requirements:- 
+26.4.1.  All procurements through the Buy (Indian-IDDM) Category. 
+26.4.2.  Innovations by industry to include Make-I, Make-II, iDEX and TDF. 
+26.4.3.  D&D projects by DRDO / DPSUs / Research Agencies. 
+26.5. Reporting for ID .     Indian vendors, design agencies or entities claiming ID are 
+required to furnish an undertaking (format attached at Appendix B to Chapter I of Handbook 
+on Guidelines & Annexures) along with relevant documents to support their claim for ID as 
+defined at Para 26.1 above. 
+26.6. Verification of ID.    The MoD can exercise its right to conduct verification of ID with 
+reasonable notice, of design reports, drawings, specifications, software documents and codes, 
+Gerber files, CAD models, IP portfolio and technical development, etc, for the contract at any 
+or all stages (tiers) of design, prototyping, manufacturing and assembly. Such verification shall 
+be carried out by the MoD itself or by a Specialist Committee / agency / institution / officer(s) 
+appointed / nominated by the MoD and shall be completed within two years of the signing of 
+the contract . Verification shall be carried out at the premises of the Indian vendor, design 
+agency or entity and documents in any form are not to be sought nor required to be submitted 
+for examination outside such premises. Verification of ID will mandatori ly be carried out in 
+cases where incentives or rewards for ID are to be granted. 
+26.7. Incentives for ID.      
+26.7.1. Incentives for ID are only applicable to acquisition categories other than those 
+listed in Para 26.4 above.  
+26.7.2. If approved by AoN A ccording Authority and included in RFP, vendors shall 
+be eligible for a credit score for L1 determination, of up to 10% for meeting ID 
+requirements of the main system / equipment / platform and up to 2% for meeting ID 
+requirements of each specified sub -systems / LRUs / Components. The cumulative 
+credit score for L1 determination shall not exceed 15%.  
+26.7.3. Possession of IPRs that establish protection under relevant Indian laws through 
+registered patents, designs, Semiconductor and Integrated Circuit Layo ut Design 
+(SICLD), copyrights, trademarks, trade secrets and geographical indications, where 
+applicable, shall be mandatory for claiming incentives for ID. The onus of establishing 
+ID, duly supported by requisite documents / certifications, shall rest with  the Indian 
+vendor. 
+26.8. Penalties for Non-Compliance with ID Requirements. 
+26.8.1. Forfeiture of Earnest Money Deposit (EMD) .    For acquisition categories 
+where ID is a mandatory requirement, in addition to declaring them non -compliant in 
+the technical evaluation, EMD may be forfeited in case vendors fail to furnish the 
+requisite documents to support their claims for ID.  
+26.8.2. Release / Forfeiture of Performance cum Warranty Bank Guarantee 
+(PWBG).     If the contract mandates verification of ID or if such verification is notified 
+17 
+and initiated by the MoD, the PWBG will be released only upon completion of the 
+verification by the MoD or its nominated Specialist Committee, agency, institution or 
+officer(s). The PWBG shall be forfeited if the vendor is una ble or fails to prove, as 
+indicated in their response at any post-contract stage, that the design of the main system 
+/ equipment / platform is owned by an Indian vendor, design agency or entity within 
+two years of signing the contract.  
+26.8.3. Additional Penalties.     In addition to forfeiture of EMD / PWBG, MoD may 
+impose any other penalty as deemed appropriate, if false undertakings / certificates / 
+documents are furnished by the vendor, design agency or entity in support of their claim 
+for ID.  
+27. Indigenous Content (IC) Requirements. 
+27.1.  Definition of IC .     IC is the domestic value addition in defence procurement, as 
+represented as a percentage of the Calculated Base Contract Price (CBCP) (i.e. the Total 
+Contract Price less taxes, duties and appl icable exclusions) of the equipment. IC shall be 
+calculated for each contract by subtracting the value of Calculated Foreign Content (CFC) (i.e. 
+the Foreign Content less applicable exclusions) from the BCP of that equipment / item using 
+the formula given below:-  
+𝐈𝐂% = {𝐂𝐁𝐂𝐏 − 𝐂𝐅𝐂
+𝐂𝐁𝐂𝐏 } 𝐱𝟏𝟎𝟎  
+ 
+27.2. Constituents of IC.      
+27.2.1. All direct or indirect costs incurred in Indian Rupees, to include indigenous 
+materials, indigenous software, indigenous research and development / ToT, production 
+overheads, infrastructure overheads, labour, manufacturing, QA, services, warranty, 
+establishment of MRO facilities and profit, shall constitute IC.  
+27.2.2. Any indigenous raw material, component, subsystem, LRU or software etc., that 
+was exported from India and subsequently imported back as part of foreign goods / 
+systems shall be recognised as IC and the value of such exported indigenous raw 
+material, component, subsystem, LRU or software etc., utilized in imported goods, shall 
+be deducted from FC for calculatio n of IC, provided proper export certificates, re -
+import documentation and traceability chain can be furnished by the vendor. 
+27.2.3. For the calculation of IC, all costs incurred for transportation, insurance, 
+installation, commissioning, training and Annu al Maintenance Contract / 
+Comprehensive Maintenance Contract and Buyer Nominated Equipment (BNE) shall 
+not be included as IC, as well as the Base Contract Price. 
+27.3. Constituents of FC.      
+27.3.1. Direct costs (including freight / transportation and in surance) of all materials, 
+components, sub-assemblies, assemblies and products imported into India.  
+27.3.2. Direct and Indirect costs of all services obtained from non -Indian entities / 
+citizens.  
+27.3.3. All license fees, royalties, technical fees and other fees / payments of this nature 
+paid out of India, by whatever term / phrase referred to in contracts / agreements made 
+by vendors / sub-vendors.  
+18 
+27.4. Category-Wise IC Requirements. 
+27.5. Special Requirements for IC. 
+27.5.1. The SHQ may recommend a higher IC than that stipulated for the category. In 
+case of niche technology-based equipment, with no or minuscule availability of desired 
+material in the country, the SHQ may recommend a lower IC than that stipulated for 
+the category. The AoN According Authority may approve a higher or lower threshold 
+of IC than those stipulated at Para 27.4 above for various categories . A detailed 
+justification for the same should be included in the SoC for seeking AoN. 
+27.5.2. For ICT Projects (except Systems projects), the minimum IC requirement shall 
+be at least 10% more than specified above in Para 26.4. 
+27.5.3. Indian vendors, while participating in Buy (Indian) and Manufacture in India or 
+Buy (Global) and Manufacture in India categories, shall be required to provide 10% 
+lesser IC than that approved by the AoN According Authority, provided they meet the 
+ID requirements specified at Para 26 above. 
+27.5.4. Minimum 50% of overall IC as stipulated in the RFP / contract (as approved by 
+AoN According Authority) for all categories of procurement cases to be in the form of 
+material / components / software that are manufactured in India. Relaxation, where due 
+justification exists, may be obtained from AoN According Authority on case -to-case 
+basis. 
+27.5.5. Vendors are required to undertake indigenous production of sub -systems, 
+LRUs, software and fast-moving spares identified by SHQ during the RFI / Preliminary 
+Study and included in the SoC for AoN, Expression of Interest (EOI) / RFP and 
+contract. 
+27.5.6. Vendors are required to provide Input / Output (I/O) Protocols of devices / 
+LRUs, envisaged to be replaced by indigenous equivalents or interfaced with equipment 
+of the buyer’s choice, identified by SHQ during the RFI / Preliminary Study and 
+included in the SoC for AoN, EOI / RFP and contract. 
+27.5.7. Vendors are required to indigenously carry out Maintenance, Repair, Overhaul 
+(MRO) and calibration of the equipment / platform / system along with associated jigs, 
+fixtures and test setups, during the designed service life of the equipment. Relaxation, 
+where due justification exists, may be obtained from AoN According Authority on case-
+to-case basis. 
+Ser 
+No Category 
+IC Requirement for 
+Prototype / EUT at 
+Trials Stage 
+Overall IC 
+Requirement by the 
+final stage of the 
+contract 
+27.4.1. Buy (Indian-IDDM) At Least 30 % At Least 60 % 
+27.4.2. Buy (Indian) and 
+Manufacture in India Nil At least 60 % for 
+Manufacture portion  
+27.4.3. Buy (Global) and 
+Manufacture in India Nil At l east 60 % for 
+Manufacture portion 
+27.4.4. Buy (Global) Nil Up to 30 % 
+19 
+27.5.8. A graduated approach for achieving the specified IC is permissible through the 
+contract execution period, subject to meeting minimum IC requirements at the Trials 
+stage. While IC may progressively increase during different phases / stages of contract 
+execution, vendors are required to ensure that the cumulative IC achieved across all 
+deliverables and stages of the contract, when calculated against the total value of CBCP, 
+meets the specified IC requirement.  
+27.5.9. Vendors are required to submit a  comprehensive Indigenisation Plan detailing 
+the phase-wise strategy for achieving the specified IC, cumulative IC progression and 
+methodology for meeting the overall IC target across the complete contract value. 
+27.6. Reporting Requirements.      
+27.6.1. IC shall be mandatorily reported as per Appendices B & C of Chapter I of the 
+Handbook on Guidelines & Annexures by the Prime Vendor and all tier vendors who 
+meet either of the under-mentioned conditions, whichever is lower: -  
+27.6.1.1. BCP of the Tier Vendor exceeds Rs 10 crores;  
+27.6.1.2. BCP of the Tier Vendor is greater than 5% of the BCP of the 
+Prime Vendor. 
+Note: For this computation, the BCP of Tier Vendor should include the price 
+of all contracts of the Tier Vendor relating to the main contract of the Prime 
+Vendor. 
+27.6.2. For supplies from the balance tier suppliers or for components / equipment 
+bought through traders / stockists / local agents of foreign suppliers, the FC shall be 
+aggregated in the IC Proforma by the Prime Vendor, under the head ‘ Others’ at a flat 
+estimated rate of 90% of the total value of supplies. In case the Prime Vendor desires, 
+he may include import certification for suppliers covered in ‘Others’, over and above 
+the tier suppliers considered in Para 25.6.1 above. 
+27.6.3 In th e event of non -incorporation of the definitions and / or verification 
+requirements laid down in contracts or agreements by vendors with the next tier at any 
+stage (tier) of manufacturing / production / assembly, it shall be presumed that items / 
+services provided by that stage / tier to the next tier have no IC.  
+27.6.4 In the event of non -certification of IC at any stage (tier) as required herein, it 
+shall be presumed that items / services provided by that stage / tier to the next stage 
+(tier) have no IC. 
+27.7. Certification Requirements. 
+27.7.1. All deliveries, including deliveries in batches / lots, made under contractual 
+obligations shall be accompanied by a certificate of IC achieved for the deliverables of 
+that batch / lot, along with cumulative IC ach ieved to include all previous deliveries 
+(including deliveries of the current batch / lot) made under the contract. This certificate 
+shall be issued by the ‘Responsible Designated Official’ i.e. the contract Signing 
+Authority, Authorised Signatory etc., of the Prime Vendor and certified by the Statutory 
+Auditor or Cost Auditor of the Company (in case of companies) or by a practising Cost 
+Accountant or practising Chartered Accountant (in respect of suppliers other than 
+companies).  
+20 
+27.7.2. Further, the prototype / equipment offered for trials shall be accompanied by a 
+certificate of IC issued for the prototype / equipment offered for trials, in case the RFP 
+mandates IC for Prototype / EUT at Trials Stage.  
+27.7.3. The format for certification of IC by the ‘Responsible Designated Official’ and 
+Statutory Auditor / Cost Auditor / certified or licensed Cost Accountant / Chartered 
+Accountant shall be as per Appendix D to Chapter I of the Handbook on Guidelines 
+& Annexures.  
+27.7.4. Deliveries by the final stage of the contract, with cumulative IC achieved across 
+all deliverables and stages of the contract calculated against the total value of CBCP, 
+must conform to the overall IC requirements specified for the contract . The Prime 
+Vendor is required to submit a certificate of overall IC achieved across all deliverables 
+and stages of the contract, along with the last delivery, but not later than one year after 
+the last delivery under the contract, failing which MoD can take any of the steps as per 
+Paras 25.10 to 25.13 below against the Prime Vendor. 
+27.8 Verification.     The MoD can exercise its right to conduct verification with reasonable 
+notice of relevant certifications and costs pertaining to imports for the contract at all or any 
+stages (tiers) of manufacturing / production / assembly, starting from the Prime Vendor 
+downwards. The verification could be conducted by the MoD itself and / or by an agency / 
+institution / officer(s) nominated by the MoD, as may be decided by the MoD during the tenure 
+of the contract and completed within one year of the last delivery under the contract. However, 
+financial records will only need to be maintained for the duration as stipulated by the existing 
+Income Tax regulations at the time of signing of contract.  Verification of IC will mandatorily 
+be carried out in cases where incentives / reward for a higher IC are to be granted. 
+27.9. Incentives for IC.     If approved by AoN According Authority and included in RFP / 
+EOI & contract, vendors shall be eligible for additional rewards as detailed below:- 
+27.9.1. Reward for Use of Indigenous Raw Materials.     A reward from 5% to 15% 
+of the supplied material cost shall be applicable in accordance with Para 27.2 of this 
+Chapter for the use of specified indigenous Military Materials. 
+27.9.2. Reward for Indigenous Manufacturing of Components.      Reward of up to 
+1% of BCP for indigenous manufacturing of each identified component, LRU or 
+software, subject to a maximum limit of 10%. 
+27.9.3. Reward for Critical Technology Absorption .     Reward of up to 2% for 
+absorption of each identified critical technology, subject to a maximum of 10%. 
+27.9.4. Cumulative Rewards.     In case more than one option of the above is exercised 
+for reward, the cumulative reward shall not exceed 10% of the BCP or Rs 4 00 Crores, 
+whichever is lower. Cumulative rewards exceeding Rs 400 Crores shall be approved by 
+AoN According Authority, if due justification exists. 
+27.9.5. Payment of Reward .     The payment of rewards will be made only after 
+verification of the parameters applicable for the reward.  
+27.9.6. Repeat Order / Option Clause.     In subsequent cases of repeat order / option 
+clause, the items for which additional rewards has been given in the main procurement 
+have to be maintained and for which further incentive s will not be given as they have 
+already been granted in the main procurement. 
+27.10. Release of Performance cum Warranty Bank Guarantee (PWBG).      
+21 
+27.10.1. PWBG shall be released only after the submission of a certificate of 
+meeting the overall IC at th e contract level, furnished by the ‘Responsible Designated 
+Official’, preferably approved by the Executive Board of the Prime Vendor, after 
+completion of all the contractual deliveries, in addition to any other requirements 
+specified elsewhere in the contract.  
+27.10.2. In case the contract requires mandatory verification of IC by MoD or 
+such verification is notified and initiated by the MoD, the PWBG shall be released only 
+after completing verification of the IC in all relevant deliveries by the MoD or its  
+nominated agency / institution / officer(s). 
+27.11. Withholding of Payment.     In case the vendor fails to certify achieving mandatory IC 
+for the project, 5% of BCP will be withheld till :-  
+27.11.1. Submission of certificate of overall IC for the contract.   
+27.11.2. Completion of verification of IC in case the contract requires mandatory 
+verification of IC by MoD or such verification is notified and initiated by the MoD.   
+27.12. Forfeiture of PWBG & Payments Withheld .     The PWBG and payments withheld 
+shall be forfeited upon failure of the vendor to submit the certificate of overall IC within one 
+year of the last delivery under the contract / failure to achieve the required IC post verification, 
+as applicable. 
+27.13. Additional Penalties.     In case mandatory IC is not achieved by a vendor and / or if a 
+false certificate is furnished by a vendor / sub-vendor, other than the forfeiture of the vendor’s 
+PWBG and payment withheld as described above, the MoD may impose any other penalty as 
+deemed appropriate.  
+28. Military Materials.      
+28.1 Seeking Inputs during RFI.     SHQ shall examine acquisition projects with substantial 
+material components at the RFI stage to assess the feasibility of using indigenous materials and 
+implementing reward mechanisms for  the same. If the material is known to be available, an 
+RFI to material manufacturers may be issued and further information may be sought on the 
+following aspects: - 
+28.1.1 Identification of the main material in case of platforms and details of major input 
+materials in case of equipment/ systems. 
+28.1.2 Availability in the country and known sources with material designation, 
+standard / code and grade and test standards. 
+28.1.3 Equivalence of standard / code at paragraph 1.1.2 above with those required. 
+28.1.4 Vendor’s likely plan for sourcing the material(s). 
+28.1.5 Likely cost of material(s) if sourced from Indian vendors as compared to their 
+import cost. 
+28.2. Reward Structure and Incentives.     Based on Preliminary studies and RFI responses, 
+SHQ may include material sourcing methodologies in the SoC when seeking AoN:- 

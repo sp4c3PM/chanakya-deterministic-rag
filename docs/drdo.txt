@@ -1,0 +1,40 @@
+DEFENCE RESEARCH AND DEVELOPMENT ORGANISATION (DRDO) - OVERVIEW
+
+1. MANDATE
+DRDO is India's premier defence R&D agency under the Ministry of Defence.
+Established in 1958, headquartered in New Delhi.
+Mission: Design, develop and lead to production state-of-the-art defence systems.
+DRDO has 52 laboratories spread across India covering all defence technology domains.
+
+2. KEY TECHNOLOGY DOMAINS
+Aeronautics: Tejas Light Combat Aircraft, Kaveri engine, UAVs.
+Missiles: Agni series (ballistic), BrahMos (cruise, joint with Russia), Akash (surface-to-air).
+Electronics and Radar: Uttam AESA radar, electronic warfare systems.
+Naval Systems: AIP submarine technology, torpedoes, sonar systems.
+Land Systems: Arjun Main Battle Tank, Pinaka multi-barrel rocket launcher.
+Nuclear and Space: Support to DRDO's strategic programmes.
+
+3. MAJOR PROGRAMMES
+Tejas Mark-1A: Series production underway. 83 aircraft ordered by IAF from HAL.
+Agni-V: Inter-continental ballistic missile with range over 5000 km. Inducted.
+BrahMos: Supersonic cruise missile. Range extended to 450 km. Export orders from Philippines.
+Akash-NG: Next generation surface-to-air missile with active radar seeker.
+QRSAM: Quick Reaction Surface-to-Air Missile for Army air defence.
+
+4. TECHNOLOGY TRANSFER TO INDUSTRY
+DRDO transfers technology to DPSUs and private industry for production.
+Transfer of Technology (ToT) agreements are signed with production agencies.
+HAL, BEL, BDL are primary ToT recipients.
+Private sector ToT is increasing under Aatmanirbhar Bharat.
+
+5. BUDGET AND WORKFORCE
+DRDO annual budget: approximately Rs 23,000 crore (2023-24).
+Workforce: approximately 30,000 employees including 7,000 scientists.
+DRDO contributes roughly 6% of India's total defence budget.
+
+6. CHALLENGES
+Long development timelines compared to private sector global benchmarks.
+Cost and time overruns on major programmes (Tejas, Arjun).
+Brain drain to private sector and foreign companies.
+Limited commercialisation of dual-use technologies.
+Dependency on foreign components for critical subsystems.

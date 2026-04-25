@@ -1,0 +1,55 @@
+DEFENCE ACQUISITION PROCEDURE 2020 - SUMMARY
+
+1. INTRODUCTION
+The Defence Acquisition Procedure (DAP) 2020 replaces the earlier DPP 2016.
+It aims to promote indigenous defence manufacturing under the Aatmanirbhar Bharat initiative.
+The procedure governs all capital acquisitions for the Indian Armed Forces.
+
+2. CATEGORIES OF PROCUREMENT
+DAP 2020 introduces the following procurement categories:
+- Buy (Indian-IDDM): Indigenously Designed, Developed and Manufactured equipment. Minimum 50% indigenous content required.
+- Buy (Indian): Indian vendor with minimum 50% indigenous content.
+- Buy and Make (Indian): Purchase from Indian vendor followed by domestic production.
+- Buy and Make: Purchase from foreign vendor with technology transfer.
+- Buy (Global-Manufacture in India): Foreign OEM must manufacture in India.
+- Buy (Global): Outright purchase from foreign or Indian vendor.
+
+3. FAST TRACK PROCEDURE (FTP)
+The Fast Track Procedure is used for urgent operational requirements of the Armed Forces.
+FTP allows procurement within 6 months for equipment already in service globally.
+It bypasses several standard steps to reduce procurement timelines.
+
+4. MAKE PROCEDURE
+The Make Procedure encourages Indian industry to design and develop defence equipment.
+Make-I: Government funded (up to 70% of development cost).
+Make-II: Industry funded with assured procurement.
+Make-III: Import substitution of components, upgrades, and maintenance tools.
+
+5. OFFSETS POLICY
+Offsets apply to Buy (Global) and Buy and Make categories above Rs 2000 crore.
+Minimum offset obligation: 30% of contract value.
+Offsets can be discharged through direct purchase, FDI, technology transfer, or training.
+
+6. DEFENCE PUBLIC SECTOR UNDERTAKINGS (DPSUs)
+HAL, BEL, BEML, BDL, MDL, GSL, GRSE, HSL, MIDHANI, and DPSU OFB are key entities.
+DPSUs get preference under Buy (Indian) category.
+
+7. ACCEPTANCE OF NECESSITY (AoN)
+AoN is the first formal step in the acquisition process.
+Services Headquarters (SHQ) initiates the process with a Statement of Case (SoC).
+Defence Acquisition Council (DAC) chaired by the Defence Minister grants AoN.
+
+8. SINGLE VENDOR SITUATIONS
+Single vendor situations must be avoided wherever possible.
+In exceptional cases, approval of the competent financial authority is required.
+Re-tendering is mandatory if only one vendor qualifies after RFP.
+
+9. TIMELINE TARGETS
+AoN to RFP issuance: 6 months.
+RFP to contract signing: 18-24 months for major platforms.
+Repeat orders allowed within 5 years of original contract at same terms.
+
+10. STRATEGIC PARTNERS
+The Strategic Partner (SP) model selects Indian private sector companies as long-term partners.
+Current SP categories: Submarines, Fighter Aircraft, Helicopters, Armoured Fighting Vehicles.
+SP is selected through a separate qualification process before vendor selection.

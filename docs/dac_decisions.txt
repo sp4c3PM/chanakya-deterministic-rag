@@ -1,0 +1,28 @@
+DEFENCE ACQUISITION COUNCIL — KEY DECISIONS AND STRUCTURE
+
+DAC COMPOSITION AND ROLE
+The Defence Acquisition Council (DAC) is the highest decision-making body for defence procurement in India. It is chaired by the Defence Minister. Other members include the Chief of Defence Staff (CDS), the three Service Chiefs (Army, Navy, Air Force), the Defence Secretary, the Secretary (Defence Production), the Secretary (Defence R&D), the Chief of Integrated Defence Staff, and financial advisors. The DAC approves Acceptance of Necessity (AoN) for all procurements above Rs 300 crore.
+
+ACCEPTANCE OF NECESSITY
+Acceptance of Necessity (AoN) is the first formal step in the Indian defence procurement process. It is granted by the DAC and establishes that there is a genuine military requirement. AoN specifies the procurement category — Buy (Indian-IDDM), Buy (Indian), Buy and Make (Indian), Buy and Make, or Buy (Global). Without AoN, no procurement can proceed to Request for Proposal (RFP) stage.
+
+PROCUREMENT CATEGORIES
+Buy (Indian-IDDM): Minimum 50% indigenous content for products designed and developed by Indian industry. Buy (Indian): Minimum 40% indigenous content manufactured by an Indian vendor. Buy and Make (Indian): Initial procurement of limited quantities followed by indigenous production with technology transfer. Buy and Make: Procurement from foreign vendor with ToT for domestic production. Buy (Global): Full import, used when no domestic capability exists.
+
+KEY DAC APPROVALS 2023
+The DAC accorded AoN for procurement of 31 MQ-9B Predator drones from the US at an estimated cost of Rs 31,000 crore (approximately $3.7 billion). This was a government-to-government deal with General Atomics. The DAC also approved AoN for 156 Prachand Light Combat Helicopters for the Army and IAF at Rs 45,000 crore — the largest ever helicopter order in Indian defence history. Additionally, AoN was granted for 97 Tejas Mk-1A fighter jets for IAF at Rs 67,000 crore.
+
+TEJAS MK-1A PROGRAMME
+The Tejas Mk-1A is an upgraded version of the Light Combat Aircraft developed by HAL and ADA. The IAF ordered 83 Tejas Mk-1A at Rs 48,000 crore in 2021. A follow-on order of 97 more aircraft was approved in 2023, taking total Tejas orders to 180. The Mk-1A features an active electronically scanned array (AESA) radar, self-protection jammer, and air-to-air refuelling capability.
+
+DEFENCE ACQUISITION PROCEDURE TIMELINES
+Under DAP 2020, the Fast Track Procedure (FTP) allows procurement within 6 months for urgent operational requirements. A standard Buy (Global) case takes 84 to 120 months from AoN to contract signing. Buy (Indian-IDDM) cases are expected within 24 to 48 months. The Categorisation Committee under DRDO and DDP reviews cases to ensure correct category assignment.
+
+STRATEGIC PARTNER MODEL DECISIONS
+The DAC approved the SP model framework in 2017. Under this framework, strategic partners are selected from Indian private sector for co-production with foreign OEMs. The four initial SP segments are: naval utility helicopters, submarines, fighter aircraft, and armoured fighting vehicles. TATA, Mahindra, L&T, and Reliance Defence have been shortlisted for various SP roles.
+
+MAKE IN INDIA IN DEFENCE
+The DAC has approved several Make (Indian) projects where the development cost above Rs 100 crore is funded 70% by the government. Projects include infantry combat vehicles, artillery gun systems, and naval mine countermeasure vessels. The Make I category provides government funding; Make II is industry-funded with assured procurement.
+
+OFFSET POLICY CHANGES UNDER DAP 2020
+The offset policy applies to Buy (Global) contracts above Rs 2,000 crore and Buy and Make contracts. The minimum offset obligation is 30% of contract value. Offsets can be discharged through direct purchase of Indian defence products, FDI in defence, transfer of technology, or investment in Indian defence R&D. The offset period is concurrent with the main contract plus two years.

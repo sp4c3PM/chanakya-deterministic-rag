@@ -156,7 +156,7 @@ def react_loop(llm, qdrant, vectorizer, question: str):
     # Step 1: retrieve context
     chunks = retrieve(qdrant, vectorizer, question)
     context = "\n\n".join([
-        f"[{c.payload.get('header', c.payload['source'])}]\n{c.payload['text'][:300]}"
+        f"[{c.payload.get('header', c.payload['source'])}]\n{c.payload['text'][:800]}"
         for c in chunks
     ])
 

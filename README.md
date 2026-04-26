@@ -6,11 +6,77 @@ A retrieval-augmented intelligence tool for Indian defence procurement. Ingests 
 
 ---
 
-## The Core Design Principle: Deterministic Over Probabilistic
+## The Deterministic Manifesto: Building the Arithmetic Wall
 
-Consumer AI optimises for "good enough for most." Defence AI cannot work this way. When an MoD analyst asks "what is the offset obligation for this contract?", the answer cannot be approximate. If the system is uncertain, it must say so — not guess.
+Consumer AI optimises for "good enough for most." Defence AI cannot work this way. A 1km error in a range calculation isn't a UX bug — it's a tactical miscalculation. An incorrect budget figure isn't an inconvenience — it can misalign procurement strategy worth hundreds of crore rupees.
 
-This principle shapes every architectural decision in this system.
+**The Arithmetic Wall is the core architectural principle of this system.** It is a strict separation between what the LLM is allowed to do and what Python must do.
+
+| Layer | Responsibility | Why |
+|-------|---------------|-----|
+| **LLM** | Read documents, identify relevant clauses, synthesize language | LLMs are good at language. They are unreliable calculators. |
+| **Python** | All arithmetic, unit conversion, physics, compliance logic | Python doesn't hallucinate. `2 + 2` is always `4`. |
+
+### What this means in practice
+
+The LLM's only permitted operations in this system:
+- Extract a number and its unit string from a document ("450", "km")
+- Extract a location name ("Jaisalmer")
+- Identify which tool to call
+- Synthesize the tool result into a natural language sentence
+
+The LLM is **forbidden** from:
+- Computing distances
+- Converting currencies
+- Multiplying unit cost × quantity
+- Checking compliance thresholds
+- Calculating time from speed and distance
+
+Every number in a Chanakya output was computed by Python.
+
+### The 14.5% Correction: A Case Study
+
+The initial implementation used `343 m/s` as the speed of sound — a common sea-level constant. BrahMos cruises at approximately 10,000 metres altitude. Under the ISA (International Standard Atmosphere) model, the speed of sound at 10km is **299 m/s**, not 343 m/s.
+
+Using the sea-level constant would understate BrahMos impact time by **14.5%** — roughly 69 seconds on a 450km flight.
+
+```
+Old (incorrect):  450km at Mach 2.8 → 468.6s   [343 m/s hardcoded]
+Correct (ISA):    450km at Mach 2.8 → 536.7s   [299 m/s at 10km cruise]
+Delta:            68.1 seconds / 14.5% error
+```
+
+This was caught during architecture review — not by a test suite, but by questioning the constant. The fix is one function: `speed_of_sound_ms(altitude_m)` using the ISA tropospheric lapse rate formula. It is documented, versioned, and transparent.
+
+A system that hides its physics assumptions is not trustworthy in a mission-critical context.
+
+### Why Static Exchange Rates
+
+The `normalize_to_crore()` function uses a documented, static rate table — not a live forex API. This is intentional:
+
+1. **Air-gapped environments cannot call external APIs.** A forward-deployed system or classified network has no internet access.
+2. **Auditability requires reproducibility.** If a budget calculation from six months ago is reviewed, the exchange rate used must be the same as when the calculation was made — not today's rate.
+3. **Static rates are a commitment, not a limitation.** The rate table is version-controlled. Updates are explicit, dated, and traceable.
+
+```python
+UNIT_RATES_TO_CRORE = {
+    "inr_crore":  1.0,
+    "inr_million": 0.1,       # 10M INR = 1 Cr
+    "usd_million": 8.5,       # 1M USD × Rs85/USD ÷ 10M = 8.5 Cr  [2026-04-26]
+    "eur_million": 9.2,       # 1M EUR × Rs92/EUR ÷ 10M = 9.2 Cr  [2026-04-26]
+    "gbp_million": 10.7,      # 1M GBP × Rs107/GBP ÷ 10M = 10.7 Cr [2026-04-26]
+}
+```
+
+### The Qualifier Rule
+
+A number is not always a fact. "Up to 450km" and "450km" are different tactical realities. The system instructs the LLM to report qualifiers explicitly:
+
+> *"If a number has a qualifier ('up to', 'not exceeding', 'approximately', 'at least'), add a `qualifier` field to your JSON with that qualifier string. Never strip a caveat silently."*
+
+The C2 dashboard surfaces qualifier warnings visibly. The analyst is never handed a naked number that was originally bounded.
+
+---
 
 ---
 
@@ -172,15 +238,18 @@ Surfacing these limitations is not a weakness. A system that documents what it c
 
 ```bash
 # Install dependencies
-pip install qdrant-client scikit-learn pypdf openai rich
+pip install qdrant-client scikit-learn pypdf openai rich streamlit
 
-# Run the query CLI (Auditor's Trace mode)
-CHANAKYA_MODEL=qwen2.5:1.5b python query.py
+# C2 Dashboard (recommended — shows full deterministic trace)
+CHANAKYA_MODEL=qwen2.5:1.5b streamlit run app.py
 
-# Run the agentic loop (tools mode)
+# CLI: agentic loop (tools mode)
 CHANAKYA_MODEL=qwen2.5:1.5b python agent.py
 
-# Build a fact sheet for a platform
+# CLI: query with Auditor's Trace
+CHANAKYA_MODEL=qwen2.5:1.5b python query.py
+
+# Build a platform fact sheet
 CHANAKYA_MODEL=qwen2.5:1.5b python factsheet.py
 
 # Run the eval suite

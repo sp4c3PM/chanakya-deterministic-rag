@@ -60,6 +60,7 @@ Rules for extracting parameters:
 - Extract numeric values as floats (e.g. "290 km extended to 450 km" → use 450.0, the maximum)
 - Location names must be lowercase single words (e.g. "Jaisalmer" → "jaisalmer")
 - NEVER use null — if a value is not in the context, output NOT_FOUND instead of calling the tool
+- If a number has a qualifier ("up to", "not exceeding", "approximately", "at least"), add a "qualifier" field to your JSON with that qualifier string. Never strip a caveat silently.
 
 Respond with ONLY this JSON (no other text, no explanation):
 {example}
